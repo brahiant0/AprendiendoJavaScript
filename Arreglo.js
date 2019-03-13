@@ -2,7 +2,7 @@
  * Mostrar valores
  */
 var amigos=["Andres","Juan","Pedro"];
-document.write(amigos[0]);
+console.log(amigos[0]);
 
 /**
  * Mostrar valor de un arreglo
@@ -24,13 +24,13 @@ console.log(trabajadores);
  * Cantidad del arreglo
  */
 var cantidadCompañeros=["Sergio","Mauro","Pepo"];
-document.write("Tienes "+ cantidadCompañeros.length + " Compañeros");
+console.log("Tienes "+ cantidadCompañeros.length + " Compañeros");
 
 /**
  * Añadir al final del arreglo con .length
  */
 var Compañeros=["Diego","Pacho","Luiz"];
-compañeros[Compañeros.length]="Fernan";
+Compañeros[Compañeros.length]="Fernan";
 
 console.log(Compañeros);
 
@@ -47,7 +47,7 @@ console.log(Parseros);
  * Elimina el ultimo
  */
 var EliminaUltimo=["Diego","Pacho","Luiz"];
-EliminadoDelGrupo.pop();
+EliminaUltimo.pop();
 
 console.log(EliminaUltimo);
 
@@ -66,7 +66,7 @@ console.log(EliminaUltimo);
  */
 var unirArreglo1=["Monsalve","Milton","Lina"];
 
-document.write(unirArreglo1.join(","));
+console.log(unirArreglo1.join(","));
 
 
 /**
@@ -74,7 +74,7 @@ document.write(unirArreglo1.join(","));
  */
 var unirArreglo1=["Monsalve","Milton","Lina"];
 
-document.write(unirArreglo1.sort());
+console.log(unirArreglo1.sort());
 
 
 /**
@@ -82,7 +82,7 @@ document.write(unirArreglo1.sort());
  */
 var unirArreglo1=["Monsalve","Milton","Lina"];
 
-document.write(unirArreglo1.sort());
+console.log(unirArreglo1.sort());
 
 
 /**
@@ -90,6 +90,6 @@ document.write(unirArreglo1.sort());
  */
 var unirArreglo1=["Monsalve","Milton","Lina"];
 
-document.write(unirArreglo1.reverse());
+console.log(unirArreglo1.reverse());
 
 

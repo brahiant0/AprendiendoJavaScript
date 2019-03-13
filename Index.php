@@ -5,10 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Page Title</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" media="screen" href="main.css">
     
 </head>
 <body>
 <script type="text/javascript" src="Variables_Java.js"></script>
+<script type="text/javascript" src="Arreglo.js"></script>
 </body>
 </html>
