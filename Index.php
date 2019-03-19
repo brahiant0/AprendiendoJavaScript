@@ -8,7 +8,9 @@
     
 </head>
 <body>
-<script type="text/javascript" src="Variables_Java.js"></script>
+<!--<script type="text/javascript" src="Variables_Java.js"></script>
 <script type="text/javascript" src="Arreglo.js"></script>
+<script type="text/javascript" src="Ciclos.js"></script>-->
+<script type="text/javascript" src="function.js"></script>
 </body>
 </html>
